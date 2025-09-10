@@ -13,7 +13,9 @@
 
 
 📂 Featured Projects
-🔹  
+  1. Algorithm Library → DSA-focused repo.
+  2. Python Utility Belt → Handy tools & helpers repo.
+  3. Automation Scripts Repo ➡ Scripts for automating boring tasks
 
 ## 📊 GitHub Stats
 [Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&theme=tokyonight)  
