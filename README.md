@@ -1,5 +1,6 @@
-👋 Hi, I'm Mohammed Saqib
+                                                                                            #Mohammed Saqib
 
+---
 Passionate about building **clean, scalable code.**  
 Currently exploring **Data Structures, Algorithms, and Software Testing**.  
 Languages & Tools: **Python**, Git, GitHub, Linux  
