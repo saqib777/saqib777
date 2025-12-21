@@ -1,7 +1,7 @@
 Hi, My name is Mohammed Saqib
 =======================================================================================================================================
 
-Aspiring Software Development Engineer At Test
+Aspiring Software Development Engineer At Testing
 ----------------------------------------------
 
 * 🌍  I'm based in Mysuru, Karnataka, India.
