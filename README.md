@@ -1,41 +1,36 @@
-Hi, My name is Mohammed Saqib
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Mohammed Saqib</h1>
+<h3 align="center">An aspiring SDET</h3>
 
-Aspiring Software Development Engineer At Testing
-----------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib777&label=Profile%20views&color=0e75b6&style=flat" alt="saqib777" /> </p>
 
-* 🌍  I'm based in Mysuru, Karnataka, India.
-* ✉️  You can contact me at [mohammedsaqib532@gmail.com](mailto:mohammedsaqib532@gmail.com)
-* 🧠  I'm currently learning Selenium
-* 👥  I'm looking to collaborate on Software Testing Projects
-* 💬  Ask me about I am also a Credentialing Specialist
-  
-----------------------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib777" alt="saqib777" /></a> </p>
 
+- 🔭 I’m currently working on [Software_Testing_Projects](https://github.com/saqib777/Software_Testing_Projects)
+
+- 🌱 I’m currently learning **Selenium**
+
+- 👯 I’m looking to collaborate on **All projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/saqib777?tab=repositories](https://github.com/saqib777?tab=repositories)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammed-saqib-b2771836b/](https://www.linkedin.com/in/mohammed-saqib-b2771836b/)
+
+- 💬 Ask me about **Katalon, selenium, testing principles**
+
+- 📫 How to reach me **mohammedsaqib532@gmail.com**
+
+- ⚡ Fun fact **I do my job at night to study in day!**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-saqib-b2771836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-saqib-b2771836b/" height="30" width="40" /></a>
 </p>
 
-----------------------------------------------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib777&show_icons=true&locale=en&layout=compact" alt="saqib777" /></p>
 
-<p align="left"> <a href="https://www.github.com/saqib777" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@mohammedsaqibukn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in//mohammed-saqib-b2771836b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/saqib777" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saqib777?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&locale=en" alt="saqib777" /></p>
 
-----------------------------------------------
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/saqib777"><img src="https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="saqib777's GitHub stats" /></a>
-
-<a href="http://www.github.com/saqib777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777&stroke=0891b2&background=000000&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/saqib777/utility-helpers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saqib777&repo=utility-helpers&title_color=ffffff&text_color=0891b2&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/saqib777/Bug-Reports-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saqib777&repo=Bug-Reports-Portfolio&title_color=ffffff&text_color=0891b2&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/saqib777/Software_Testing_Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saqib777&repo=Software_Testing_Projects&title_color=ffffff&text_color=0891b2&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/saqib777/demoqa-test-cases" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saqib777&repo=demoqa-test-cases&title_color=ffffff&text_color=0891b2&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777&" alt="saqib777" /></p>
