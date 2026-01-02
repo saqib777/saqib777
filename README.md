@@ -58,18 +58,13 @@ https://www.linkedin.com/in/mohammed-saqib-b2771836b/
 
 ---
 
-## GitHub Stats
+
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&locale=en" />
-</p>
+## GitHub Activity
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib777&layout=compact" />
 </p>
 
 ---
