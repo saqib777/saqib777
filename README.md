@@ -1,36 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mohammed Saqib</h1>
-<h3 align="center">An aspiring SDET</h3>
+<div align="center">
+  
+  # Mohammed Saqib </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib777&label=Profile%20views&color=0e75b6&style=flat" alt="saqib777" /> </p>
+### Aspiring SDET | Software Testing | Automation
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib777" alt="saqib777" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Software_Testing_Projects](https://github.com/saqib777/Software_Testing_Projects)
+## About Me
 
-- 🌱 I’m currently learning **Selenium**
+I am a Computer Science graduate currently transitioning into a Software Development Engineer in Test (SDET) role.  
+My focus is on building strong fundamentals in software testing, test design, and automation while maintaining clean, well-documented project repositories.
 
-- 👯 I’m looking to collaborate on **All projects**
+I actively work on real-world testing scenarios, test case design, and automation experiments to improve both technical depth and problem-solving ability.
 
-- 👨‍💻 All of my projects are available at [https://github.com/saqib777?tab=repositories](https://github.com/saqib777?tab=repositories)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammed-saqib-b2771836b/](https://www.linkedin.com/in/mohammed-saqib-b2771836b/)
+## Current Focus
 
-- 💬 Ask me about **Katalon, selenium, testing principles**
+- Working on structured **Software Testing Projects**
+- Learning **Selenium WebDriver** and UI automation concepts
+- Practicing test case design, edge case analysis, and debugging
+- Documenting learning journeys and testing approaches
 
-- 📫 How to reach me **mohammedsaqib532@gmail.com**
+---
 
-- ⚡ Fun fact **I do my job at night to study in day!**
+## Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-saqib-b2771836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-saqib-b2771836b/" height="30" width="40" /></a>
+- Software_Testing_Projects  
+  Comprehensive manual and automation testing projects with detailed documentation
+
+- Ministry_of_testing  
+  Test case suites, exploratory testing notes, and structured test scenarios
+
+- Bug-Reports-Portfolio  
+  Organized and detailed bug reports written from real test executions
+
+All projects are available here:  
+https://github.com/saqib777?tab=repositories
+
+---
+
+## Writing & Knowledge Sharing
+
+I regularly share my learning journey, testing insights, and project updates on LinkedIn:  
+https://www.linkedin.com/in/mohammed-saqib-b2771836b/
+
+---
+
+## Skills & Tools
+
+- Programming: Python, Java, JavaScript  
+- Testing: Manual Testing, Test Case Design, Selenium, Katalon Studio  
+- Web: HTML, CSS  
+- Databases: MySQL  
+- Tools: Git, GitHub, Linux  
+- Other: Test Documentation, Debugging, Exploratory Testing
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&locale=en" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib777&show_icons=true&locale=en&layout=compact" alt="saqib777" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib777&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib777&show_icons=true&locale=en" alt="saqib777" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777&" alt="saqib777" /></p>
+## Contact
+
+Email: mohammedsaqib532@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mohammed-saqib-b2771836b/
+
+---
+
+Consistency and discipline matter more than speed. I focus on showing real work, not just titles.
