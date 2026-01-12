@@ -15,6 +15,12 @@ I actively work on real-world testing scenarios, test case design, and automatio
 
 ---
 
+## Badges 
+
+[![CI Pipeline](https://github.com/saqib777/CI-integration-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/saqib777/CI-integration-Project/actions/workflows/ci.yml)
+
+---
+
 ## Current Focus
 
 - Working on structured **Software Testing Projects**
