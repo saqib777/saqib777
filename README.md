@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mohammed%20Saqib&fontSize=42&fontColor=e0f7fa&fontAlignY=55&desc=Software%20Tester%20%7C%20QA%20Engineer%20%7C%20Automation%20Learner&descSize=16&descAlignY=78&descColor=80cbc4"/>
+<!-- Header - Cylinder style, more modern than wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mohammed%20Saqib&fontSize=42&fontColor=e0f7fa&fontAlignY=55&desc=Software%20Tester%20%7C%20QA%20Engineer%20%7C%20Automation%20Learner&descSize=16&descAlignY=78&descColor=80cbc4"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=4DD0E1&center=true&vCenter=true&width=600&lines=Final-year+MCA+%7C+Targeting+QA+%2F+SDET+Roles;Python+%7C+Selenium+%7C+Manual+%26+Automation+Testing;Real+tests.+Real+bugs.+Real+documentation.)](https://git.io/typing-svg)
@@ -173,17 +173,13 @@ Python DSA solutions tracked with pytest test cases, algorithm annotations, and 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqib777&theme=github_dark" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saqib777&theme=github_dark" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqib777&theme=github_dark" height="150"/>
+<!-- Fix 2: Switched to github-readme-stats for top languages — updates faster than profile-summary-cards -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib777&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=900" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib777&theme=dark&hide_border=true&background=0d1117&stroke=4DD0E1&ring=4DD0E1&fire=ff6b6b&currStreakLabel=4DD0E1" />
+<!-- Fix 1: Switched to streak-stats.demolab.com — more reliable daily updates than herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=saqib777&theme=dark&hide_border=true&background=0d1117&stroke=4DD0E1&ring=4DD0E1&fire=ff6b6b&currStreakLabel=4DD0E1" />
 
 </div>
 
@@ -203,6 +199,7 @@ I document my testing journey and share insights on LinkedIn — covering test d
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<!-- Footer matching cylinder header style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
