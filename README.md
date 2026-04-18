@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Particle/Glitch Header — using a more dynamic capsule with gradient text effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:1a3a4a,100:2c5364&height=200&section=header&text=Mohammed%20Saqib&fontSize=48&fontColor=e0f7fa&fontAlignY=55&desc=Software%20Tester%20%7C%20QA%20Engineer%20%7C%20Automation%20Learner&descSize=16&descAlignY=76&descColor=4DD0E1&animation=fadeIn&stroke=4DD0E1&strokeWidth=1"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4DD0E1&center=true&vCenter=true&width=650&height=40&lines=Final-year+MCA+%7C+Targeting+QA+%2F+SDET+Roles;Python+%7C+Selenium+%7C+Manual+%26+Automation+Testing;Real+tests.+Real+bugs.+Real+documentation.;Building+in+public+--+every+commit+counts." alt="Typing SVG" />
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4DD0E1&center=true&vCenter=true&width=650&lines=Final-year+MCA+%7C+Targeting+QA+%2F+SDET+Roles;Python+%7C+Selenium+%7C+Manual+%26+Automation+Testing;Real+tests.+Real+bugs.+Real+documentation.;Building+in+public+%E2%80%94+every+commit+counts.)](https://git.io/typing-svg)
  
