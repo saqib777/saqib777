@@ -43,11 +43,13 @@ My approach is grounded in fundamentals — disciplined test case design, struct
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-1D3557?style=flat-square&logo=katalon&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-444444?style=flat-square)
 ![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-555555?style=flat-square)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-555555?style=flat-square)
 ![Performance Testing](https://img.shields.io/badge/Performance%20Testing-2C3E50?style=flat-square)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-555555?style=flat-square)
+![REST API Testing](https://img.shields.io/badge/REST%20API%20Testing-009688?style=flat-square)
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-37474F?style=flat-square)
 ![Edge Case Analysis](https://img.shields.io/badge/Edge%20Case%20Analysis-37474F?style=flat-square)
 ![Flaky Test Detection](https://img.shields.io/badge/Flaky%20Test%20Detection-6D4C41?style=flat-square)
@@ -76,7 +78,15 @@ My approach is grounded in fundamentals — disciplined test case design, struct
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-FF6B35?style=flat-square)
+![Groq API](https://img.shields.io/badge/Groq%20API-FF6B35?style=flat-square)
+![Tally ERP 9](https://img.shields.io/badge/Tally%20ERP%209-1A237E?style=flat-square)
+
+**3D & Design**
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Womp 3D](https://img.shields.io/badge/Womp%203D-2D2D2D?style=flat-square)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-37474F?style=flat-square)
 
 **AI & Emerging**
 
