@@ -27,7 +27,7 @@
 
 I am a final-year **MCA student** from Karnataka, actively transitioning into a **Software Tester / QA Engineer** role with a long-term goal of becoming an **SDET**.
 
-My approach is grounded in fundamentals — disciplined test case design, structured documentation, and hands-on automation practice. I build real projects, write real test cases, and document real bugs. No filler, no shortcuts.
+My approach is grounded in fundamentals - disciplined test case design, structured documentation, and hands-on automation practice. I build real projects, write real test cases, and document real bugs. No filler, no shortcuts.
 
 - **Primary Language:** Python
 - **Current Focus:** Selenium WebDriver, UI automation, pytest-based test frameworks, CI/CD integration
@@ -98,7 +98,7 @@ My approach is grounded in fundamentals — disciplined test case design, struct
 
 ## Featured Projects
 
-> These are the six repos that define my current portfolio. Each is a working, documented artifact — not a tutorial clone.
+> These are the six repos that define my current portfolio. Each is a working, documented artifact - not a tutorial clone.
 
 | Project | Description | Stack |
 |---|---|---|
@@ -152,7 +152,7 @@ My approach is grounded in fundamentals — disciplined test case design, struct
 
 ## Writing & Knowledge Sharing
 
-I document my testing journey and share insights on LinkedIn — covering test design, real bug findings, automation experiments, and career progress.
+I document my testing journey and share insights on LinkedIn - covering test design, real bug findings, automation experiments, and career progress.
 
 **[Follow along on LinkedIn](https://www.linkedin.com/in/mohammed-saqib-b2771836b/)**
 
