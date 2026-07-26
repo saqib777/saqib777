@@ -32,7 +32,7 @@ My approach is grounded in fundamentals - disciplined test case design, structur
 - **Primary Language:** Python
 - **Current Focus:** Selenium WebDriver, UI automation, pytest-based test frameworks, CI/CD integration
 - **Actively applying** to QA / Software Testing roles in Bengaluru
-- **Learning publicly** — every project is documented and traceable
+- **Learning publicly** - every project is documented and traceable
 
 ---
 
